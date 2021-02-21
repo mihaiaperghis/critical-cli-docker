@@ -1,5 +1,5 @@
 # critical-cli-docker
-Docker image for [Addy Osmani's Critical CSS generator](https://github.com/addyosmani/critical) in CLI mode.
+Docker wrapper for [Addy Osmani's Critical CSS generator](https://github.com/addyosmani/critical) in CLI mode.
 
 Useful for quickly [extracting critical CSS](https://web.dev/extract-critical-css/) via command line for existing websites without installing node, Chrome/ium or anything else other than Docker.
 
